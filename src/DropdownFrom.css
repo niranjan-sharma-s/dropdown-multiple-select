@@ -1,0 +1,11 @@
+.heading {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 2rem;
+  margin: 3rem;
+}
+
+.select {
+  top: 0%;
+  margin-left: 20%;
+  margin-right: 20%;
+}
